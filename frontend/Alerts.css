@@ -1,0 +1,10 @@
+.alert-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.alert {
+  border-radius: 5px;
+  padding: 15px;
+}
